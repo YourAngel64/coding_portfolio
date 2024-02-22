@@ -1,0 +1,33 @@
+body{
+    background-image: url("https://i.postimg.cc/HWtbjLww/spaceeditt.jpg");
+}
+
+@font-face {
+    font-family: "mariokart";
+    src:url("/public/Fonts/Mario-Kart-DS.woff") format("woff");
+  }
+
+img{
+    position: absolute;
+    width: 50%;
+    height: 100%;
+    top: -1%;
+    left: 25%;
+
+    z-index: -1;
+}
+
+p{
+    position: absolute;
+    left: 23%;
+    top: 70%;
+    font-family: "mariokart";
+    font-size: 25px;
+    z-index: 9;
+    color: white;
+}
+
+#estoa{
+    left: 55%;
+    top: 20%
+}
