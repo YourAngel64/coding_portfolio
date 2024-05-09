@@ -1,0 +1,23 @@
+h1.heading{
+    color:white;
+    text-align: center;
+}
+
+
+div.presentation{
+    width: 650px;
+    height: 100px;
+}
+
+p.presentation{
+    font-size: 18px;
+    color: white;
+    margin-left: 290px;
+    margin-top: -460px;
+}
+
+img.presentation{
+    width: 260px;
+    height: 460px;
+    margin-left: 10px;
+}

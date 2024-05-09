@@ -1,0 +1,81 @@
+body{
+    background-color: black;
+    overflow-x: hidden;
+}
+
+div.subpages{
+    background: rgb(32, 32, 32);
+    width: 110%;
+    margin-left: -10px;
+    height: 100px;
+}
+
+
+div.div_line{
+    background-color: white;
+    margin-top: -10px;
+    margin-left: -10px;
+    width: 110%;
+    height: 3px;
+}
+
+
+p.subpages{
+    position:absolute;
+    font-size: 20px;
+    margin-left: 9px;
+    margin-top: 30px;
+    color:white;
+}
+
+p.pages{
+    color:white;
+    font-size:19px;
+    position: absolute;
+    margin-left: 75%;
+    margin-top: 30px;
+}
+
+#work{
+    margin-left: 80%;
+}
+
+#reference{
+    margin-left: 85%;
+}
+
+#about_me{
+    margin-left: 93%;
+}
+
+div.social{
+    background-color: rgb(32, 32, 32);
+    height: 90px;
+    margin-top: 400px;
+    margin-left: -10px;
+    width: 110%;
+}
+
+img.social{
+    margin-top: 13px;
+}
+
+#T{
+    margin-left: 20px;
+
+}
+
+#I{
+    margin-top: -40px;
+    margin-left: 100px;
+}
+
+#G{
+    margin-top: -20px;
+    margin-left: 90px;
+
+}
+
+#N{
+    margin-left: 90px;
+}
