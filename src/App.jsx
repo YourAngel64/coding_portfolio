@@ -38,10 +38,10 @@ export default function App(){
 
 
       <div className="social">
-        <a href="www.x.com" target="_blank"><img src="/Pictures/twitter.png" id="T" className="social"/></a>
-        <a href="instagram.com" target="_blank"><img src="/Pictures/instagram.png" id="I" className="social"/></a>
-        <a href="github.com" target="_blank"><img src="/Pictures/github.png" id="G" className="social"/></a>
-        <a href="indeed.com" target="_blank"><img src="/Pictures/indeed.png" id="N" className="social"/></a>
+        <a href="https://twitter.com/kiminotenshi64" target="_blank"><img src="/Pictures/twitter.png" id="T" className="social"/></a>
+        <a href="https://instagram.com" target="_blank"><img src="/Pictures/instagram.png" id="I" className="social"/></a>
+        <a href="https://github.com/YourAngel64" target="_blank"><img src="/Pictures/github.png" id="G" className="social"/></a>
+        <a href="https://indeed.com" target="_blank"><img src="/Pictures/indeed.png" id="N" className="social"/></a>
       </div>
 
     </>

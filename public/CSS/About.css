@@ -1,0 +1,28 @@
+div.about{
+    width: 260px;
+    margin-left: 20px;
+}
+
+h2.heading{
+    color:white;
+
+}
+
+img.about{
+    width: 260px;
+    height: 360px;
+}
+
+
+p.about{
+    color:white;
+}
+
+div.resume{
+    margin-left: 20px;
+}
+
+
+div.goals{
+    margin-left: 20px;
+}

@@ -12,7 +12,7 @@ export function Home(){
 
            <div className="presentation">
                 <img src="/Pictures/thumbnail_26388.jpg" className="presentation" />
-
+                
                 <p className="presentation">
                     Hello, Hola. I am Angel Vazquez. Software Engineer and Graphic Designer.
                     My work is mainly based on Back-end Web Development, Low-Level Programming and Graphic Design with
