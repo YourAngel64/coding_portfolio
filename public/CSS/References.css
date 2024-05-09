@@ -1,0 +1,25 @@
+h1.headings{
+    margin-left: 20px;
+    color: white;
+}
+
+div.reference{
+    margin-left: 20px;
+
+    width: 400px;
+    height: 200px;
+
+    background-color: aliceblue;
+
+}
+
+h3.reference{
+    position: relative;
+    margin-left: 150px;
+    top: 8px;
+}
+
+p.reference{
+    margin: 2px;
+    font-size: 18px;
+}

@@ -15,11 +15,14 @@ export function Home(){
 
                 <p className="presentation">
                     Hello, Hola. I am Angel Vazquez. Software Engineer and Graphic Designer.
-                    My work is mainly based on Web Development, Low-Level Programming and Graphic Design with
+                    My work is mainly based on Back-end Web Development, Low-Level Programming and Graphic Design with
                     PhotoShop. Feel welcome to explore this web place to see example of previous jobs, references,
                     and more about my professional career.
                 </p>
 
+                <div className="line">
+                    <hr className="presentation"/>
+                </div>
                 
            </div>
 

@@ -21,3 +21,13 @@ img.presentation{
     height: 460px;
     margin-left: 10px;
 }
+
+div.line{
+    
+    width: 270px;
+}
+
+hr.presentation{
+    margin-left: 10px;
+    margin-top: 310px;
+}
