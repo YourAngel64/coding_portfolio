@@ -26,7 +26,15 @@ export function Home(){
                 
            </div>
 
-            
+            <div className="quick">
+                <h1 className="quick">Quick Links</h1>  
+
+                <a href="/Pictures/Resume.pdf" download="/Pictures/Resume.pdf">
+                    <p className="quick"><u>Resume</u></p>
+                </a>
+                <p className="quick"><u>Github</u></p>
+                <p className="quick"><u>Email</u></p>
+            </div> 
            
         </>
     )

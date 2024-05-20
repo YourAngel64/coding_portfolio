@@ -1,4 +1,6 @@
 export function About(){
+
+
     return(
         <>
             <link rel="stylesheet" href="/CSS/About.css" />
@@ -22,7 +24,7 @@ export function About(){
                     I'm currently pursuing a Computer Science Degree in Florida State University.
                 </p>
 
-                <br />
+                <br/>
 
                 <h2 className="heading">Background...</h2>
 
@@ -49,6 +51,19 @@ export function About(){
 
             <div className="resume">
                 <h2 className="heading">Resume</h2>
+
+                <img src="/Pictures/Resume.png" className="resume"/>
+
+                <br />
+                <br />
+
+                <a href="/Pictures/Resume.pdf" download="/Pictures/Resume.pdf">
+                    <button type="button" className="resume">
+                        <p className="resume">Download</p>
+                    </button>
+                </a>
+
+
 
             </div>
 

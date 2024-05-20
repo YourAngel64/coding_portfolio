@@ -31,3 +31,18 @@ hr.presentation{
     margin-left: 10px;
     margin-top: 310px;
 }
+
+div.quick{
+    margin-top: 500px;
+    margin-left: 10px;
+}
+
+h1.quick{
+    color:white;
+    text-align: left;
+}
+
+p.quick{
+    color:white;
+    font-size:30px;
+}

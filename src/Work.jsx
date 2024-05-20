@@ -41,7 +41,7 @@ export function Work(){
             <a href="work/webpage">
                 <div className="works">
                     <h2 className="headings"><u>Webpages</u></h2>
-                    <img src="/Pictures/coding.jpg" className="works"/>
+                    <img src="/Pictures/web_example.png" className="works"/>
                 </div>
             </a>
 
